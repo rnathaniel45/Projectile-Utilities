@@ -31,5 +31,7 @@ Derivation of prediction math for case where speed is known:
 ![image](https://github.com/rnathaniel45/Projectile-Utilities/assets/70607607/f594c979-3875-4e1c-9759-7f0727705243)
 
 Attribution:
+
 Quartic solving functions ported by me from: https://www.realtimerendering.com/resources/GraphicsGems/gems/Roots3And4.c
+
 Math loosely based on this blog: https://www.forrestthewoods.com/blog/solving_ballistic_trajectories/
